@@ -7,7 +7,6 @@ permalink:
 excerpt: 
 date: 2026
 venue: 'STOC'
-slidesurl: 
 paperurl: 
 citation:
 ---
