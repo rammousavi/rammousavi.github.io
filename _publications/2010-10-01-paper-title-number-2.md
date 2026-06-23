@@ -1,8 +1,8 @@
 ---
 title: "A Constant Factor Approximation for Directed Latency"
 authors: Jannis Blauth, Ramin Mousavi
-collection: Conference
-category: 
+collection: 
+category: Conference
 permalink: 
 excerpt: 
 date: 2026
