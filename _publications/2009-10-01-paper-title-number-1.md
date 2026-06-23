@@ -1,6 +1,6 @@
 ---
 title: "A PTAS for Euclidean Capacitated Vehicle Routing"
-collection: publication
+collection: publications
 authors: Zachary Friggstad, Fabrizio Grandoni, Ramin Mousavi, Kinter Ren, Mohammad R. Salavatipour
 category: Conference
 date: 2026
