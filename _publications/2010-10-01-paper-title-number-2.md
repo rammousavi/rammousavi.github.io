@@ -1,11 +1,12 @@
 ---
-title: "Paper Title Number 2"
-collection: 
+title: "A Constant Factor Approximation for Directed Latency"
+authors: Jannis Blauth, Ramin Mousavi
+collection: Conference
 category: 
 permalink: 
 excerpt: 
 date: 2026
-venue: 'stoc'
+venue: 'STOC'
 slidesurl: 
 paperurl: 
 citation:
