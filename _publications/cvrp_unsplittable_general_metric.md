@@ -5,5 +5,6 @@ authors: "Zachary Friggstad, Ramin Mousavi, Mirmahdi Rahgoshay, Mohammad R. Sala
 category: conference
 date: 2022-09-01
 venue: 'IPCO'
-paperurl:
+permalink: /publication/cvrp_general_metric
+paperurl: "https://arxiv.org/abs/2111.08138"
 ---
