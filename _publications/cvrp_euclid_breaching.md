@@ -4,5 +4,5 @@ collection: publications
 category: conference
 date: 2026-01-01
 venue: 'SODA'
-paperurl: "/files/papers/euclidean_cvrp_breaching.pdf"
+paperurl: "/files/papers/Euclidean_cvrp_breaching.pdf"
 ---
