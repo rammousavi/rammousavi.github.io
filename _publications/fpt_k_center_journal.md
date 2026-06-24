@@ -5,6 +5,7 @@ authors: "Sayan Bandyapadhyay, Zachary Friggstad, Ramin Mousavi"
 category: journal
 date: 2024-08-01
 venue: 'Algorithmica'
-paperurl:
+permalink: /publication/journal-fpt-k-center
+paperurl: "https://dl.acm.org/doi/abs/10.1007/s00453-024-01236-1"
 ---
 
