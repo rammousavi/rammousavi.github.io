@@ -5,5 +5,6 @@ authors: "Sayan Bandyapadhyay, Zachary Friggstad, Ramin Mousavi"
 category: conference
 date: 2022-05-01
 venue: 'AAAI'
-paperurl:
+permalink: /publication/fpt-k-center
+paperurl: "https://arxiv.org/abs/2112.10195"
 ---
