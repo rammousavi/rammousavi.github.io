@@ -5,5 +5,6 @@ authors: "Zachary Friggstad, Fabrizio Grandoni, Ramin Mousavi, Kinter Ren, Moham
 category: conference
 date: 2026-06-01
 status: "in submission"
+permalink: /publication/ptas-euclidean-cvrp
 paperurl: 
 ---
