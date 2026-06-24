@@ -6,5 +6,5 @@ category: journal
 date: 2023-09-01
 venue: 'Mathematics of Operations Research'
 permalink: /publications/journal-cvrp-general-metric
-paperurl: "https://arxiv.org/abs/2111.08138"
+paperurl: "https://pubsonline.informs.org/doi/10.1287/moor.2022.0097"
 ---
