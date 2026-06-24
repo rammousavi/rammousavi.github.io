@@ -5,5 +5,6 @@ authors: "Zachary Friggstad, Ramin Mousavi"
 category: conference
 date: 2023-09-01
 venue: 'ICALP'
-paperurl:
+permalink: /publications/dst-log-planar
+paperurl: "https://arxiv.org/abs/2302.04747"
 ---
