@@ -5,5 +5,6 @@ authors: "Zachary Friggstad, Ramin Mousavi"
 category: conference
 date: 2022-06-01
 venue: 'ISAAC'
-paperurl:
+permalink: /publications/bd-tsp
+paperurl: "http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2022/17293/"
 ---
