@@ -5,5 +5,6 @@ authors: "Jannis Blauth, Ramin Mousavi"
 category: conference
 date: 2026-05-01
 venue: 'STOC'
-paperurl: 
+permalink: /publication/dirlatency
+paperurl: "https://arxiv.org/abs/2512.15473"
 ---
