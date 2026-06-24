@@ -5,7 +5,8 @@ authors: "Ramin Mousavi"
 category: journal
 date: 2019-08-01
 venue: 'Information Processing Letters'
-paperurl:
+permalink: /publication/jounral-thin-tree-planar
+paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0020019018302321"
 ---
 
 
