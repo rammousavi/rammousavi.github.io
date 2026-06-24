@@ -5,6 +5,6 @@ authors: "Zachary Friggstad, Ramin Mousavi, Mirmahdi Rahgoshay, Mohammad R. Sala
 category: journal
 date: 2023-09-01
 venue: 'Mathematics of Operations Research'
-permalink: /publications/cvrp_general_metric
+permalink: /publications/journal-cvrp-general-metric
 paperurl: "https://arxiv.org/abs/2111.08138"
 ---
