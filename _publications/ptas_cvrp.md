@@ -4,7 +4,7 @@ collection: publications
 authors: "Zachary Friggstad, Fabrizio Grandoni, Ramin Mousavi, Kinter Ren, Mohammad R. Salavatipour"
 category: conference
 date: 2026-06-01
-status: "in submission"
+status: "Published in FOCS, 2026"
 permalink: /publication/ptas-euclidean-cvrp
 paperurl: 
 ---
